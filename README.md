@@ -23,3 +23,10 @@ public domain as a Work of the Federal Government(R), I have also taken the libe
 
 [*] No I have never even worked at a private company that kept their engineers' docs up to date, can only imagine the
 absurd hassle it must be trying to fix any of them when they're the government's
+
+## Why Do I Want This?
+Because, at least if you live within 48 nautical miles of a major U.S. airport, the Terminal Doppler Weather Radar
+there gives you a much higher resolution radar image than the more widely ranged NEXRAD system, and it is rarely
+found in any OSS apps or free weather websites, if even any paid ones (at the current time of writing, I believe
+even Weather Underground has not updated their radar widget to pull TDWR from the new URI so they've all been
+perpetually 'down for maintenance' for as many months as I can remember checking, though, [they are not really](https://radar3pub.ncep.noaa.gov/))
