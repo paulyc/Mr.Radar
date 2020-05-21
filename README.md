@@ -1,9 +1,13 @@
 # Mr.Radar
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=DsGZYW_DTEg
+" target="_blank"><img src="http://img.youtube.com/vi/DsGZYW_DTEg/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 "Now that I have my coffee, I'm ready to watch radar. Where is it?"
 
 "Right here, sir!"
 
-[Spaceballs, 1987]
+[_Spaceballs_, 1987]
 
 ## Objective
 Automate the collection and distribution (in human-parsable format) of raw radar data particularly the....
