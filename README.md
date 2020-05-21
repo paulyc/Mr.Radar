@@ -3,11 +3,13 @@
 
 "Right here, sir!"
 
+[Spaceballs, 1987]
+
 ## Objective
 Automate the collection and distribution of raw radar data particularly the....
 
 ### TDWR Level III Base Reflectivity Data (48nm range)
-Seems NOAA likes shuffling this around to keep people on their toes but as of 21 May 2020 it's under
+Seems NOAA likes shuffling this around to keep people on their toes* but as of 21 May 2020 it's under
 
 ftp://tgftp.nws.noaa.gov/SL.us008001/DF.of/DC.radar/DS.180z0/SI.txxx/sn.0yyy
 
@@ -18,4 +20,7 @@ and you can use something like [their Weather and Climate Toolkit](https://www.n
 into an image. (Much like the TDWR data itself, by the time you're reading this it may have moved, so, being in the
 public domain as a Work of the Federal Government(R), I have also taken the liberty of putting it in
 [a repo](https://github.com/paulyc/NOAA-WCT) that should last at least as long as this one, and at the same URI....
+
+* No I have never even worked at a private company that kept their engineers' docs up to date, can only imagine the
+absurd hassle it must be trying to fix any of them when they're the government's
 
