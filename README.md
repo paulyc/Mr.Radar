@@ -21,6 +21,5 @@ into an image. (Much like the TDWR data itself, by the time you're reading this 
 public domain as a Work of the Federal Government(R), I have also taken the liberty of putting it in
 [a repo](https://github.com/paulyc/NOAA-WCT) that should last at least as long as this one, and at the same URI....
 
-* No I have never even worked at a private company that kept their engineers' docs up to date, can only imagine the
+[*] No I have never even worked at a private company that kept their engineers' docs up to date, can only imagine the
 absurd hassle it must be trying to fix any of them when they're the government's
-
