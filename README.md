@@ -1,5 +1,7 @@
 # Mr.Radar
-"Now that I have my coffee, I'm ready to watch radar. Where is it?" "Right here, sir!"
+"Now that I have my coffee, I'm ready to watch radar. Where is it?"
+
+"Right here, sir!"
 
 ### TDWR Level III Base Reflectivity Data (48nm range)
 Seems NOAA likes shuffling this around to keep people on their toes but as of 21 May 2020 it's under
