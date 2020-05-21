@@ -6,7 +6,7 @@
 [Spaceballs, 1987]
 
 ## Objective
-Automate the collection and distribution of raw radar data particularly the....
+Automate the collection and distribution (in human-parsable format) of raw radar data particularly the....
 
 ### TDWR Level III Base Reflectivity Data (48nm range)
 Seems NOAA likes shuffling this around to keep people on their toes* but as of 21 May 2020 it's under
