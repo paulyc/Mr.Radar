@@ -5,7 +5,7 @@ if [[ "$1" == "save" || "$1" == "plot" ]]; then
 	shift
 fi
 
-ACTION=${ACTION:-save}
+ACTION=${ACTION:-none}
 STA=${1:-ttpa}
 PROD=${2:-180z0}
 COUNTER=${3:-last}
@@ -25,7 +25,9 @@ function fetch_latest()
 
 function plot_action()
 {
-	./nexrad32plot.py "$FILENAME" "$ACTION"
+	if [ "$ACTION" != "none" ]; then
+		./nexrad32plot.py "$FILENAME" "$ACTION"
+	fi
 }
 
 fetch_latest
