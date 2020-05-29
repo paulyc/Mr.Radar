@@ -25,11 +25,11 @@ PLATFORM := $(shell uname)
 
 _: all_$(PLATFORM)
 
-all_Linux: README.md bin/mrradard BlockBunzipper bin/dumpfmt
-all_Darwin: README.md bin/mrradard BlockBunzipper # dumpfmt wont build due to missing rpc lib
+all_Linux: bin/mrradard BlockBunzipper bin/dumpfmt
+all_Darwin: bin/mrradard BlockBunzipper # dumpfmt wont build due to missing rpc lib
 
-README.md: README.md.af
-	fold -s -w 100 README.md.af > README.md
+README.md_fold: README.md
+	fold -s -w 100 README.md
 
 MRRADARD_SRCDIR ?= mrradard/src
 MRRADARD_OBJDIR ?= obj
