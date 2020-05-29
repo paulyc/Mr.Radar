@@ -69,9 +69,26 @@ ftp://tgftp.nws.noaa.gov/SL.us008001/DF.of/DC.radar/DS.180z0/SI.ttpa/sn.last
 * p41et = 124nm Echo Tops
 * p59hi = Hail Index
 
-## Usage
+## Tools Usage
 Rough. I've only had time to write a few scripts just to help me figure this stuff out, not my job 
 though I'd apply, so they are only self-documented bash but generally simple enough.
+
+### nexrad32plot.py [Python 3]
+Usage:
+nexrad32plot.py <FILENAME> <save|[plot]>
+
+Requires Python3 and MetPy. (npm install from source or npm failed for me on Linux, use the 
+Anaconda Package Manager imo). Attempts to transcode NEXRAD_LEVEL3 data in FILENAME to an image. 
+Specify plot or save to either open an interactive plot window [default] or save to a PNG file in 
+the same directory.
+
+### fetch_tdwr.sh
+Usage:
+fetch_tdwr.sh [<plot|save|[none]>] [<station|[ttpa]> [<product|[180z0]> [[<counter|[last]>>]]]
+Attempt to download NEXRAD_LEVEL3 data file from the NOAA distribution server, and optionally, 
+process into an image. With no arguments, saves the latest 48nm 0.5deg base reflectivity data from 
+TTPA and does no further processing. Specify plot or save before other arguments if MetPy to plot 
+or save image if MetPy is installed.
 
 ## Why Do I Want This?
 The Terminal Doppler Weather Radar/NEXRAD-3 gives you a much higher resolution radar image than the 
