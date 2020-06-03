@@ -57,7 +57,7 @@ ftp://tgftp.nws.noaa.gov/SL.us008001/DF.of/DC.radar/DS.180z0/SI.ttpa/sn.last
 * 182v1 = 48nm Mid Elevation Base Radial Velocity
 * 182v2 = 48nm High Elevation Base Radial Velocity
 * 186zl = 225nm Low Elevation Base Reflectivity
-* 32dhr = 225nm Digital Hybrid Scan Reflectivity
+* 32dhr = 124nm Digital Hybrid Scan Reflectivity
 * 48vwp = VAD Wind Profile
 * 57vil = 48nm Vertically Integrated Liquid
 * 58sti = Storm Tracking
