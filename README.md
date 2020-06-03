@@ -23,7 +23,8 @@ on the NOAA distribution side.
 Seems NOAA likes shuffling this around to keep people on their toes[1] but as of 21 May 2020 it's 
 under
 
-ftp://tgftp.nws.noaa.gov/SL.us008001/DF.of/DC.radar/DS.ppppp/SI.ssss/sn.cccc
+* ftp://tgftp.nws.noaa.gov/SL.us008001/DF.of/DC.radar/DS.ppppp/SI.ssss/sn.cccc
+* https://tgftp.nws.noaa.gov/SL.us008001/DF.of/DC.radar/DS.ppppp/SI.ssss/sn.cccc
 
 where ppppp is product code eg 180z0 = 48nm Low Elevation Base Reflectivity.
 
@@ -43,9 +44,10 @@ can only imagine the absurd hassle it must be trying to fix any of them when the
 government's and the general public are the engineers.
 
 #### Example
-The most recent 48nm 0.5 degree reflectivity data (in NEXRAD_LEVEL3 format) for TTPA is found at
+The most recent 48nm 0.5 degree reflectivity data (in NEXRAD_LEVEL3 format) for TTPA is found at either
 
 ftp://tgftp.nws.noaa.gov/SL.us008001/DF.of/DC.radar/DS.180z0/SI.ttpa/sn.last
+https://tgftp.nws.noaa.gov/SL.us008001/DF.of/DC.radar/DS.180z0/SI.ttpa/sn.last
 
 ### List of Product Codes (At least as far as I can tell)
 * 141md = NEXRAD Level-III Digital Mesocyclone Detection Algorithm
