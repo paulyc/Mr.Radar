@@ -1,15 +1,9 @@
 # Mr.Radar
-<<<<<<< HEAD
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=DsGZYW_DTEg
-" target="_blank"><img src="http://img.youtube.com/vi/DsGZYW_DTEg/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-=======
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=DsGZYW_DTEg" target="_blank">
 <img src="https://raw.githubusercontent.com/paulyc/Mr.Radar/master/Mr.Radar.jpg"
      alt="Mr. Coffee and Mr. Radar from 'Spaceballs' (1987)"
      width="320" height="180" border="10" />
 </a>
->>>>>>> d491d0c2ca454cae9f7284103a22bbae710b7598
 
 "Now that I have my coffee, I'm ready to watch radar. Where is it?"
 
